@@ -1,1 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Lomb</title><link>http://example.org/</link><description>Recent content on Lomb</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Lomb</title><link>/</link><description>Recent content on Lomb</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/resume/</guid><description>Education Sep 2019 - Dec 2021 MSc, Artificial Intelligence University of Bologna
+Grade: 110 with honours
+Thesis: &amp;ldquo;Multiple time series forecasting with Graph Neural Networks&amp;rdquo;
+Sep 2016 - Oct 2019 BSc, Computer Science and Engineering University of Bologna
+Grade: 110 with honours
+Thesis: &amp;ldquo;AlpaBot: Costruzione e impiego di un robot autonomo per scopi didattici&amp;rdquo;
+Experience Oct 2021 - Mar 2022 Applied Scientist Intern Amazon Prime Video - London (United Kingdom)</description></item></channel></rss>
