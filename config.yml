@@ -1,0 +1,35 @@
+baseURL: ''
+languageCode: 'en-us'
+title: 'Lomb'
+theme: 'PaperMod'
+
+enableEmoji: true
+
+params:
+  profileMode:
+    enabled: true
+    title: "Hi there :sparkles:"
+    subtitle: "My name is Alessandro and this is my personal website."
+    imageUrl: "https://avatars.githubusercontent.com/u/36598720?v=4"
+    imageTitle: "profile picture"
+    imageWidth: 120
+    imageHeight: 120
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/alessandro-lombardi-b566341a8/"
+    - name: github
+      url: "https://github.com/alomb"
+    - name: twitter
+      url: "https://twitter.com/__aplomb_"
+
+menu:
+  main:
+    - identifier: archives
+      name: Archive
+      url: /archives/
+      weight: 10
+    - identifier: resume
+      name: Resume
+      url: /resume/
+      weight: 20
+
