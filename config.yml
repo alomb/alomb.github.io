@@ -1,16 +1,21 @@
-baseURL: ''
+baseURL: 'https://alomb.github.io/'
 languageCode: 'en-us'
 title: 'Lomb'
 theme: 'PaperMod'
 
 enableEmoji: true
 
+analytics:
+    google:
+        SiteVerificationTag: "Wb7OqntfmIxjlJlxS-GXMi0vQc1Z0PuJZShmel_MDBM"
+
 params:
+  description: "Alessandro Lombardi personal website, resume, blog on artificial intelligence"
   profileMode:
     enabled: true
     title: "Hi there :sparkles:"
     subtitle: "My name is Alessandro and this is my personal website."
-    imageUrl: "https://avatars.githubusercontent.com/u/36598720?v=4"
+    imageUrl: "https://avatars.githubusercontent.com/u/36598720"
     imageTitle: "profile picture"
     imageWidth: 120
     imageHeight: 120
@@ -21,6 +26,8 @@ params:
       url: "https://github.com/alomb"
     - name: twitter
       url: "https://twitter.com/__aplomb_"
+  ShowBreadCrumbs: false
+  ShowShareButtons: true
 
 menu:
   main:
@@ -32,4 +39,3 @@ menu:
       name: Resume
       url: /resume/
       weight: 20
-
