@@ -5,12 +5,10 @@ theme: 'PaperMod'
 
 enableEmoji: true
 
-analytics:
-    google:
-        SiteVerificationTag: "Wb7OqntfmIxjlJlxS-GXMi0vQc1Z0PuJZShmel_MDBM"
-
 params:
   description: "Alessandro Lombardi personal website, resume, blog on artificial intelligence"
+  analytics:
+    googlesiteVerificationTag: "Wb7OqntfmIxjlJlxS-GXMi0vQc1Z0PuJZShmel_MDBM"
   profileMode:
     enabled: true
     title: "Hi there :sparkles:"
